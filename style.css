@@ -349,6 +349,7 @@ img {
     grid-template-columns: .6fr;
     justify-content: center;
   }
+
 }
 
 @media screen and (min-width: 767px) {
@@ -635,4 +636,10 @@ img {
   top: 6.5rem;
   right: -3rem;
   animation: var(--animate-snow-2);
+}
+
+@media screen and (max-width: 425px) {
+  .footer__snow-1 {
+    top: 2.5rem;
+  }
 }
