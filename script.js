@@ -110,3 +110,13 @@ let snowfall = new Snowfall({
     // z-index for the canvas
     zIndex: "100000" 
 });
+
+function playSound(){
+    let audio = new Audio("song.mp3");
+    audio.loop = true;
+    audio.play();
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    playSound();
+});
