@@ -34,3 +34,13 @@ If you want to run the project locally:
 
    ```bash
    git clone https://github.com/nimnaks/Christmass-wish-.git
+   
+## Contributing
+
+If you'd like to contribute, report issues, or share ideas, please feel free to open an [issue](https://github.com/nimnaks/Christmass-wish-/issues) or submit a [pull request](https://github.com/nimnaks/Christmass-wish-/pulls).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Thank you for spreading the Christmas joy! 🌟🎅🎁
